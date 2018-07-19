@@ -1,15 +1,14 @@
 <?php
-
-namespace Engesoftware\Red;
-
-use Engesoftware\Keycloak\Helper\Token;
-use Illuminate\Auth\GuardHelpers;
-use Illuminate\Contracts\Auth\Guard as Contract;
-use Illuminate\Contracts\Auth\UserProvider;
-use Illuminate\Http\Request;
-use Engesoftware\Models\User;
+/**
+ * Created by PhpStorm.
+ * User: rafael
+ * Date: 19/07/18
+ * Time: 11:47
+ */
 
 class Red
 {
+
     const VERSION = '1.0';
+
 }
