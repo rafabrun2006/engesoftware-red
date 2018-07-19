@@ -6,6 +6,8 @@
  * Time: 11:47
  */
 
+namespace Engesoftware;
+
 class Red
 {
 
